@@ -10,3 +10,19 @@ section{
     justify-content: center;
 }
 
+header{
+    font-family: "Chakra Petch", sans-serif;
+}
+
+setion{
+    background: rgb(74,10,142);
+    padding-bottom: 5%;
+    padding-top: 5%;
+    font-display: flex;
+    justify-content: center;
+}
+.texto{
+    margin-right:  5%;
+
+}
+
