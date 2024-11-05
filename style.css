@@ -25,4 +25,10 @@ setion{
     margin-right:  5%;
 
 }
-
+imag{
+    height: 200px;
+}
+.categoria-videos{
+    display:flex;
+    overflow-x: auto;
+    gap: 10px;
